@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_fff1" label="Fff1" language="en" table="u_xtab">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_fff1</element>
+            <help/>
+            <hint/>
+            <label>Fff1</label>
+            <language>en</language>
+            <name>u_xtab</name>
+            <plural>Fff1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-23 13:54:25</sys_created_on>
+            <sys_id>40254173770210103fe4b5b268106161</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Fff1</sys_name>
+            <sys_package display_value="par3" source="5be18d7b778210103fe4b5b268106148">5be18d7b778210103fe4b5b268106148</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="par3">5be18d7b778210103fe4b5b268106148</sys_scope>
+            <sys_update_name>sys_documentation_u_xtab_u_fff1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-23 13:54:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

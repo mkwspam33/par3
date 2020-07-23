@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="XTab" max_length="40" name="u_xtab" type="collection">
+        <element label="Fff1" max_length="40" name="u_fff1" type="string"/>
+    </element>
+</database>
