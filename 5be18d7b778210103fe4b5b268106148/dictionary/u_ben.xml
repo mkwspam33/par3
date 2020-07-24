@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Ben" max_length="40" name="u_ben" type="collection">
-        <element label="Xyz" max_length="40" name="u_xyz" type="string"/>
-    </element>
-</database>
