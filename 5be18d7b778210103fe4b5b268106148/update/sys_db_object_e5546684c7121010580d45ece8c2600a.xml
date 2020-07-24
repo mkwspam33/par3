@@ -9,9 +9,9 @@
         <create_access>false</create_access>
         <create_access_controls>true</create_access_controls>
         <delete_access>false</delete_access>
-        <extension_model/>
+        <extension_model>class</extension_model>
         <is_extendable>false</is_extendable>
-        <label>Xtab</label>
+        <label>XTab</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>u_xtab</name>
         <number_ref/>
@@ -24,17 +24,31 @@
         <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-23 13:54:24</sys_created_on>
-        <sys_id>71a85e0c775610103fe4b5b26810617a</sys_id>
+        <sys_id>e5546684c7121010580d45ece8c2600a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>XTab</sys_name>
         <sys_package display_value="par3" source="5be18d7b778210103fe4b5b268106148">5be18d7b778210103fe4b5b268106148</sys_package>
         <sys_policy/>
         <sys_scope display_value="par3">5be18d7b778210103fe4b5b268106148</sys_scope>
-        <sys_update_name>sys_db_object_71a85e0c775610103fe4b5b26810617a</sys_update_name>
+        <sys_update_name>sys_db_object_e5546684c7121010580d45ece8c2600a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-07-23 13:54:24</sys_updated_on>
         <update_access>false</update_access>
         <user_role display_value="par3_user" name="par3_user">97e18d7b778210103fe4b5b26810617f</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="par3">5be18d7b778210103fe4b5b268106148</claim_owner_scope>
+        <claim_timestamp>00000000</claim_timestamp>
+        <metadata_update_name>sys_db_object_e5546684c7121010580d45ece8c2600a</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>par3</previous_claim_name>
+        <previous_claim_scope>5be18d7b778210103fe4b5b268106148</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 15:30:59</sys_created_on>
+        <sys_id>28d462c4c7121010580d45ece8c260c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 15:30:59</sys_updated_on>
+    </sys_claim>
 </record_update>
