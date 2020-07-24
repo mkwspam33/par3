@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 14:43:51</sys_created_on>
+        <sys_id>8a0a128c775610103fe4b5b26810618c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_ben.par3_user</sys_name>
+        <sys_package display_value="par3" source="5be18d7b778210103fe4b5b268106148">5be18d7b778210103fe4b5b268106148</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="par3">5be18d7b778210103fe4b5b268106148</sys_scope>
+        <sys_security_acl display_value="u_ben">4e0a128c775610103fe4b5b268106188</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8a0a128c775610103fe4b5b26810618c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 14:43:51</sys_updated_on>
+        <sys_user_role display_value="par3_user" name="par3_user">97e18d7b778210103fe4b5b26810617f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="par3">5be18d7b778210103fe4b5b268106148</application>
+        <file_path/>
+        <instance_id>b9ec5bba3d3110108bc5a370e8b22f86</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_security_acl_role_8a0a128c775610103fe4b5b26810618c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 14:43:51</sys_created_on>
+        <sys_id>8a0a128c775610103fe4b5b26810618c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_ben.par3_user</sys_name>
+        <sys_package display_value="par3" source="5be18d7b778210103fe4b5b268106148">5be18d7b778210103fe4b5b268106148</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="par3">5be18d7b778210103fe4b5b268106148</sys_scope>
+        <sys_security_acl display_value="u_ben">4e0a128c775610103fe4b5b268106188</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8a0a128c775610103fe4b5b26810618c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 14:43:51</sys_updated_on>
+        <sys_user_role display_value="par3_user" name="par3_user">97e18d7b778210103fe4b5b26810617f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>-724522052</payload_hash>
+        <record_name>u_ben.par3_user</record_name>
+        <reverted_from/>
+        <source>15546684c7121010580d45ece8c26003</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 15:28:56</sys_created_on>
+        <sys_id>5254a684c7121010580d45ece8c2604b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17381710b150000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 15:28:56</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>1254a6842e121010cd8ff9a724c96a4b</update_guid>
+        <update_guid_history>1254a6842e121010cd8ff9a724c96a4b:-724522052</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="u_ben.par3_user">2384ea84c7121010580d45ece8c26017</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 15:29:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>21a1247c13fe454085904407b6f53690</sys_id>
+        <sys_metadata>8a0a128c775610103fe4b5b26810618c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_ben.par3_user</sys_name>
+        <sys_package display_value="par3" source="5be18d7b778210103fe4b5b268106148">5be18d7b778210103fe4b5b268106148</sys_package>
+        <sys_parent display_value="">4e0a128c775610103fe4b5b268106188</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="par3">5be18d7b778210103fe4b5b268106148</sys_scope>
+        <sys_scope_delete display_value="">118494615df74987a12256e62e4ddf79</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_8a0a128c775610103fe4b5b26810618c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_8a0a128c775610103fe4b5b26810618c">5254a684c7121010580d45ece8c2604b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 15:29:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>u_ben</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 15:00:41</sys_created_on>
+        <sys_id>eced5a40c7121010580d45ece8c26062</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_ben</sys_name>
+        <sys_package display_value="crawling" source="06ed0332c7021010908245ece8c2606a">06ed0332c7021010908245ece8c2606a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="crawling">06ed0332c7021010908245ece8c2606a</sys_scope>
+        <sys_update_name>ua_table_licensing_config_eced5a40c7121010580d45ece8c26062</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 15:00:41</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="crawling">06ed0332c7021010908245ece8c2606a</application>
+        <file_path/>
+        <instance_id>b9ec5bba3d3110108bc5a370e8b22f86</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>ua_table_licensing_config_eced5a40c7121010580d45ece8c26062</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>u_ben</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-24 15:00:41</sys_created_on><sys_id>eced5a40c7121010580d45ece8c26062</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_ben</sys_name><sys_package display_value="crawling" source="06ed0332c7021010908245ece8c2606a">06ed0332c7021010908245ece8c2606a</sys_package><sys_policy/><sys_scope display_value="crawling">06ed0332c7021010908245ece8c2606a</sys_scope><sys_update_name>ua_table_licensing_config_eced5a40c7121010580d45ece8c26062</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-24 15:00:41</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>268704353</payload_hash>
+        <record_name>u_ben</record_name>
+        <reverted_from/>
+        <source>16093132c7021010908245ece8c26054</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-07-20 15:07:17</sys_created_on>
+        <sys_id>1254a684c7121010580d45ece8c26067</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1736cc3c8880000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Table Subscription Configuration</type>
+        <update_guid>de54a6842f121010134dd9ddd8021166</update_guid>
+        <update_guid_history>de54a6842f121010134dd9ddd8021166:268704353</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 15:29:51</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>38dcad84b30f4000be5572dcf265fe89</sys_id>
+        <sys_metadata>eced5a40c7121010580d45ece8c26062</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_ben</sys_name>
+        <sys_package display_value="par3" source="5be18d7b778210103fe4b5b268106148">5be18d7b778210103fe4b5b268106148</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="par3">5be18d7b778210103fe4b5b268106148</sys_scope>
+        <sys_scope_delete display_value="">118494615df74987a12256e62e4ddf79</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_eced5a40c7121010580d45ece8c26062</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_eced5a40c7121010580d45ece8c26062">1254a684c7121010580d45ece8c26067</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 15:29:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

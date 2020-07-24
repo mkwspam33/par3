@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on u_ben</description>
+        <name>u_ben</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 14:43:51</sys_created_on>
+        <sys_id>860a128c775610103fe4b5b268106190</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_ben</sys_name>
+        <sys_package display_value="par3" source="5be18d7b778210103fe4b5b268106148">5be18d7b778210103fe4b5b268106148</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="par3">5be18d7b778210103fe4b5b268106148</sys_scope>
+        <sys_update_name>sys_security_acl_860a128c775610103fe4b5b268106190</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 14:43:51</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="par3">5be18d7b778210103fe4b5b268106148</application>
+        <file_path/>
+        <instance_id>b9ec5bba3d3110108bc5a370e8b22f86</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_security_acl_860a128c775610103fe4b5b268106190</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on u_ben</description>
+        <name>u_ben</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 14:43:51</sys_created_on>
+        <sys_id>860a128c775610103fe4b5b268106190</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_ben</sys_name>
+        <sys_package display_value="par3" source="5be18d7b778210103fe4b5b268106148">5be18d7b778210103fe4b5b268106148</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="par3">5be18d7b778210103fe4b5b268106148</sys_scope>
+        <sys_update_name>sys_security_acl_860a128c775610103fe4b5b268106190</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 14:43:51</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>]]></payload>
+        <payload_hash>995896884</payload_hash>
+        <record_name>u_ben</record_name>
+        <reverted_from/>
+        <source>15546684c7121010580d45ece8c26003</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 15:28:55</sys_created_on>
+        <sys_id>c654a684c7121010580d45ece8c2601d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173817109fe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 15:28:55</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>8654a684941210102b0576a5b82c421d</update_guid>
+        <update_guid_history>8654a684941210102b0576a5b82c421d:995896884</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 15:29:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>163b45ece02e498a833447af962dd9f1</sys_id>
+        <sys_metadata>860a128c775610103fe4b5b268106190</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_ben</sys_name>
+        <sys_package display_value="par3" source="5be18d7b778210103fe4b5b268106148">5be18d7b778210103fe4b5b268106148</sys_package>
+        <sys_parent display_value="">a0ed5a40c7121010580d45ece8c2604c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="par3">5be18d7b778210103fe4b5b268106148</sys_scope>
+        <sys_scope_delete display_value="">118494615df74987a12256e62e4ddf79</sys_scope_delete>
+        <sys_update_name>sys_security_acl_860a128c775610103fe4b5b268106190</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_860a128c775610103fe4b5b268106190">c654a684c7121010580d45ece8c2601d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 15:29:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

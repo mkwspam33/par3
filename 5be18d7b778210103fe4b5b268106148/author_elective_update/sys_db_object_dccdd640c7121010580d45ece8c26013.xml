@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Ben</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>u_ben</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 15:00:40</sys_created_on>
+        <sys_id>dccdd640c7121010580d45ece8c26013</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_ben</sys_name>
+        <sys_package display_value="crawling" source="06ed0332c7021010908245ece8c2606a">06ed0332c7021010908245ece8c2606a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="crawling">06ed0332c7021010908245ece8c2606a</sys_scope>
+        <sys_update_name>sys_db_object_dccdd640c7121010580d45ece8c26013</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 15:00:40</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="u_ben_user" name="u_ben_user">40ed1a40c7121010580d45ece8c260ca</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="crawling">06ed0332c7021010908245ece8c2606a</application>
+        <file_path/>
+        <instance_id>b9ec5bba3d3110108bc5a370e8b22f86</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_db_object_dccdd640c7121010580d45ece8c26013</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Ben</label><live_feed_enabled>false</live_feed_enabled><name>u_ben</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-24 15:00:40</sys_created_on><sys_id>dccdd640c7121010580d45ece8c26013</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_ben</sys_name><sys_package display_value="crawling" source="06ed0332c7021010908245ece8c2606a">06ed0332c7021010908245ece8c2606a</sys_package><sys_policy/><sys_scope display_value="crawling">06ed0332c7021010908245ece8c2606a</sys_scope><sys_update_name>sys_db_object_dccdd640c7121010580d45ece8c26013</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-24 15:00:40</sys_updated_on><update_access>false</update_access><user_role display_value="u_ben_user" name="u_ben_user">40ed1a40c7121010580d45ece8c260ca</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1668340525</payload_hash>
+        <record_name>Ben</record_name>
+        <reverted_from/>
+        <source>73fe13b63d3510108bc5a370e8b22f5b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 15:00:41</sys_created_on>
+        <sys_id>e4ed5a40c7121010580d45ece8c26068</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1738157313d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 15:00:41</sys_updated_on>
+        <type>Table</type>
+        <update_guid>20ed5a40a71210103d2bf6b88c5ab868</update_guid>
+        <update_guid_history>20ed5a40a71210103d2bf6b88c5ab868:-1668340525</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 15:29:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>0a7db4a58bf64a00852f3a8102771690</sys_id>
+        <sys_metadata>dccdd640c7121010580d45ece8c26013</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ben</sys_name>
+        <sys_package display_value="par3" source="5be18d7b778210103fe4b5b268106148">5be18d7b778210103fe4b5b268106148</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="par3">5be18d7b778210103fe4b5b268106148</sys_scope>
+        <sys_scope_delete display_value="">118494615df74987a12256e62e4ddf79</sys_scope_delete>
+        <sys_update_name>sys_db_object_dccdd640c7121010580d45ece8c26013</sys_update_name>
+        <sys_update_version display_value="sys_db_object_dccdd640c7121010580d45ece8c26013">e4ed5a40c7121010580d45ece8c26068</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 15:29:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
